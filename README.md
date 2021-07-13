@@ -1,7 +1,8 @@
 # Question Room - React Js App
 #### Inspired by the NLW (a brazilian programming event made by Rocketseat) I created my first React Js website. Which the design inspired by the junior enterprise I am part of (CT Junior), it consists of an application that user can asks questions to be read before or during an online meeting or web conference.
 
-## The technologies I used in this project were: React Js, Typescript, Yarn Package Manager, Firebase Realtime Database
+# Technologies I used in this project were
+### React Js, Typescript, Yarn Package Manager, Firebase Realtime Database
 
 # App Screenshots:
 ## Login
@@ -11,7 +12,8 @@
 ## Question Room (User View)
 ![alt text](./src/assets/screenshots/question-room.png)
 ## Question Room (Admin View)
-#### Note: To view the room as an admin, just insert "/admin/" before "/rooms/" in your room url. Ex: http://localhost:3000/admin/rooms/-roomfirebasecode123456789
+#### Note: To view the room as an admin, just insert "/admin/" before "/rooms/" in your room url. 
+#### Ex: http://localhost:3000/admin/rooms/-roomfirebasecode123456789
 ![alt text](./src/assets/screenshots/admin-room.png)
 
 # Getting Started with Create React App
